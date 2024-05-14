@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thilina Sandaruwan<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
-
+<h1 align="center">Hi 👋, I'm Thilina Sandaruwan</h1>
+ <picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></picture>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **JAVA**
