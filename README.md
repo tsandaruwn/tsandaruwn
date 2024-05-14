@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thilina Sandaruwan</h1>
-<h3 align="center">## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> A passionate IT Student from Sri Lanka</h3>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture>
+
+<h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **JAVA**
 
