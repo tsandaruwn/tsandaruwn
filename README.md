@@ -25,7 +25,7 @@
 
 ---
 <!--- stats & Trophy (start) -->
-## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</center>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Github Stats</center>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
