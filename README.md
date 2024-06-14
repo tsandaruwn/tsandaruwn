@@ -6,25 +6,21 @@
     <img src="https://komarev.com/ghpvc/?username=tsandaruwn">
 </a>
 <a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/tsandaruwn?label=Followers&style=social" alt="GitHub Badge"></a>
-<table>
-    <tr border="none">
-        <td>
-<h2> <b>About me </b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </h2>
+
+## About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 - 🌱 I’m currently learning **OOP with JAVA**
 
 - 💬 Ask me about **C, HTML, JAVA**
 
 - 📫 How to reach me **btsandaruwan@gmail.com**
-  
-</td>
 
-<td><img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></td>
-</tr>
-</table>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 ---
 <!--- stats & Trophy (start) -->
-<h2><b> Github Stats</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+## Github Stats<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
