@@ -31,5 +31,6 @@
 &nbsp <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandaruwn&show_icons=true&locale=en&layout=compact" alt="tsandaruwn" /></p>
