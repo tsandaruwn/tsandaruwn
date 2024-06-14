@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
+![](https://komarev.com/ghpvc/?username=meisun0107&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🌱 I’m currently learning **OOP with JAVA**
