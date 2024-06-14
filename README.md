@@ -2,10 +2,10 @@
 
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
-<center><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<p align= center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tsandaruwn">
 </a>
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/tsandaruwn?label=Followers&style=social" alt="GitHub Badge"></a></center>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/tsandaruwn?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
