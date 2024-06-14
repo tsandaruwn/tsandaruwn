@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **OOP with JAVA**
 
 - 💬 Ask me about **C, HTML, JAVA**
 
