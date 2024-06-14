@@ -20,12 +20,12 @@
 
 - 📫 How to reach me **btsandaruwan@gmail.com**
 
-
-
+- 🤓 Always learning **New Things**.
+ 
 
 ---
 <!--- stats & Trophy (start) -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b></h2>
+<h2 align="center"><b>Github Stats</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -58,7 +58,7 @@
 </p>        
 <!--- stats (end) -->
 
-<h2 align="center"> <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><b> Connect with me</b></h2>
+<h2 align="center"> <b> Connect with me</b><img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="center">
 <a href="https://fb.com/thilina.sandaruwan.7982780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilina.sandaruwan.7982780" height="30" width="40" /></a>
 <a href="https://instagram.com/_thilina_sandaru_one_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thilina_sandaru_one_" height="30" width="40" /></a>
@@ -66,7 +66,7 @@
 
 ---
 
-<h2 align="center"> <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <b>Languages and Tools</b></h2>
+<h2 align="center"> <b>Languages and Tools</b> <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 &nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
