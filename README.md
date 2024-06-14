@@ -9,20 +9,22 @@
 <table>
     <tr border="none">
         <td>
-## About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+<h2> <b>About me </b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </h2>
 
 - 🌱 I’m currently learning **OOP with JAVA**
 
 - 💬 Ask me about **C, HTML, JAVA**
 
 - 📫 How to reach me **btsandaruwan@gmail.com**
+  
 </td>
-<td><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></td>
+
+<td><img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></td>
 </tr>
 </table>
 ---
 <!--- stats & Trophy (start) -->
-## Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h2><b> Github Stats</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
